@@ -91,8 +91,7 @@ public class Main
                    main.printDistinctCount();
                    break;
                case 7:
-                   System.out.println("Authors:\t140316012 - Ataberk Yavuzer\n"
-                           + "\t\t140316038 - Furkan Kurşun\n");
+                   System.out.println("Authors:\tAtaberk Yavuzer\n");
            }
         }
     }
